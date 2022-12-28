@@ -3,6 +3,7 @@ import Header from '../src/components/Header/Header'
 import About from '../src/components/About/About'
 import Portfolio from './components/Portfolio/Portfolio'
 import Contact from '../src/components/Contact/Contact'
+import Footer from '../src/components/Footer/Footer'
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
     <Header />
     <About />
     <Portfolio />
-    {/* <Contact /> */}
+    <Contact />
+    <Footer />
     </>
   );
 }

@@ -7,7 +7,7 @@ import Freedom from '../../assets/freedomsCost.jpg'
 
 const Portfolio = () => {
   return (
-    <div className='pt-5 mx-5'>
+    <div id='portfolio' className='pt-5 mx-5'>
         <h2>Portfolio</h2>
         <div className='d-flex flex-wrap'>
             <img className='pImg' src={Awesome} alt="" />
