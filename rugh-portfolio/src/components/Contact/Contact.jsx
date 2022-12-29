@@ -14,6 +14,9 @@ const Contact = () => {
             <label for='email'>Email:</label>
             <input type="text" id='email' name='user-email' />
           </li>
+          <li>
+            <button type='submit'>Submit</button>
+          </li>
         </ul>
       </form>
     </div>
