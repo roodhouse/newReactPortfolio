@@ -15,4 +15,4 @@ export default function Navigation() {
             <ul className='d-flex flex-row me-5 list-unstyled'>{mapped}</ul>
         </div>
     )
-}
+} 
